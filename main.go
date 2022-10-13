@@ -57,7 +57,7 @@ type EnpassJson struct {
 
 func main() {
 	if len(os.Args) < 3 {
-		log.Fatalln("\n./enpass-to-keepassxc-macM1 input_file.json output_file.csv\nOR\ngo run main.go input_file.json output_file.csv")
+		log.Fatalln("\n./enpass-to-keepassxc input_file.json output_file.csv\nOR\ngo run main.go input_file.json output_file.csv")
 	}
 	input := os.Args[1]
 	output := os.Args[2]
