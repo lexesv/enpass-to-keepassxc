@@ -1,2 +1,0 @@
-"Group","Title","Username","Password","URL","Notes","TOTP","Icon","Last Modified","Created"
-"Корінь/login","Test","test_user","test_apss","https://google.com","test_notes","otpauth://totp/Test:test_user?secret=JBSWY3DPEHPK3PXP&period=30&digits=6&issuer=Test","0","2022-10-13T12:05:53Z","2022-10-13T12:03:49Z"
